@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.person{
+  background-color: #61dafb;
+  padding: 20px;
+  margin:10px;
+}
+.fruits{
+  background-color: #61dafb;
+  padding: 20px;
+  margin:10px;
+}
+.product{
+  background-color: beige;
+  padding: 20px;
+  margin:10px;
+  border:2px solid rebeccapurple;
+  border-radius: 15px;
+}
